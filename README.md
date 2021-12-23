@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WrittikGithub
+- 👋 Hi, I’m @Writtik
 - 👀 I’m interested in ...Software Programming, Web Designing.
 - 🌱 I’m currently learning ...MCA
 - 💞️ I’m looking to collaborate on ...
