@@ -2,7 +2,7 @@
 👋 Hi, I’m Writtik
 🚀 Full-Stack Engineer | Backend Systems Architect | Mobile App Developer
 
-I’m a Full-Stack Engineer with 4+ years of professional experience and an MCA degree, specializing in building high-scale backend engines and intuitive cross-platform mobile applications.
+I’m a Full-Stack Engineer with 3+ years of professional experience and an MCA degree, specializing in building high-scale backend engines and intuitive cross-platform mobile applications.
 
 Currently working at the Central Institute of Indian Languages (CIIL), Govt. of India, where I lead the development of large-scale digitization hubs and mobile application suites using React Native and Flutter.
 
