@@ -1,5 +1,22 @@
 # 💫 About Me:
-👋 Hi, I’m @Writtik<br>👀 I’m interested in ...Software Programming, Web Designing.<br>💞️ I’m looking to collaborate on ...<br>📫 How to reach me ...rittik.2000.12@gmail.com<br>Working at ...Central Institute of Indian Languages (CIIL), Govt. of India, as Full Stack Web Developer And Application Developer
+👋 Hi, I’m Writtik
+🚀 Full-Stack Engineer | Backend Systems Architect | Mobile App Developer
+
+I’m a Full-Stack Engineer with 4+ years of professional experience and an MCA degree, specializing in building high-scale backend engines and intuitive cross-platform mobile applications.
+
+Currently working at the Central Institute of Indian Languages (CIIL), Govt. of India, where I lead the development of large-scale digitization hubs and mobile application suites using React Native and Flutter.
+
+I thrive in high-performance engineering cultures driven by:
+
+eXtreme Programming (XP)
+
+Test-Driven Development (TDD)
+
+Domain-Driven Design (DDD)
+
+CI/CD & Agile delivery
+
+I’m passionate about simplifying complex distributed systems and leveraging AI-driven development workflows to accelerate delivery while maintaining 99.9% system reliability.
 
 
 ## 🌐 Socials:
